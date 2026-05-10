@@ -42,13 +42,12 @@
 
 打开 CMD 命令行，执行以下命令即可生成无控制台黑框的桌面程序（假设你的系统盘在 C 盘）：
 ```cmd
-C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:winexe /out:ChildGuard.exe "ChildGuard v1.2.cs"
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:winexe /out:ChildGuard.exe "ChildGuard.cs"
 ```
 
 ## 📜 版权与鸣谢
 
 作者：大许律师 (Lawyer Xu)  
-版本：v1.2  
 版权所有：Copyright © 2026  
 
 用心守护孩子的健康成长。
