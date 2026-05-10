@@ -8,7 +8,8 @@
 [![Language](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Version](https://img.shields.io/badge/Version-v1.2-orange.svg)]()
 
-**ChildGuard** is a professional Windows desktop application designed to protect children's eyesight. It runs silently in the background, monitors continuous computer usage, and enforces mandatory breaks with a full-screen lock to ensure children leave their seats and rest their eyes.
+**ChildGuard** is a professional Windows desktop application designed to protect children's eyesight. It runs silently in the background, monitors continuous computer usage, and enforces mandatory breaks with a full-screen lock to ensure children leave their seats and rest their eyes.  
+![ChildGuard screenshot](ChildGuard_Screenshot.png)  
 
 ## ✨ Key Features
 

@@ -8,7 +8,8 @@
 [![Language](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Version](https://img.shields.io/badge/Version-v1.2-orange.svg)]()
 
-**ChildGuard** 是一款专为保护儿童视力开发的 Windows 桌面端家长控制软件。它通过在后台静默运行，监控电脑的连续使用时间，并在达到设定阈值时强制锁定屏幕，提醒孩子离开座位休息。
+**ChildGuard** 是一款专为保护儿童视力开发的 Windows 桌面端家长控制软件。它通过在后台静默运行，监控电脑的连续使用时间，并在达到设定阈值时强制锁定屏幕，提醒孩子离开座位休息。  
+![ChildGuard screenshot](ChildGuard_Screenshot.png)  
 
 ## ✨ 核心特性
 
