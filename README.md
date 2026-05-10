@@ -42,6 +42,7 @@ As a single-file C# project, you can compile it directly using the built-in Wind
 Open CMD and run the following command:
 ```cmd
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:winexe /out:ChildGuard.exe "ChildGuard v1.2.cs"
+```
 
 ## 📜 Credits & License
 
