@@ -47,8 +47,8 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:winexe /out:ChildG
 
 ## 📜 版权与鸣谢
 
-作者：大许律师 (Lawyer Xu)
-版本：v1.2
-版权所有：Copyright © 2026
+作者：大许律师 (Lawyer Xu)  
+版本：v1.2  
+版权所有：Copyright © 2026  
 
 用心守护孩子的健康成长。

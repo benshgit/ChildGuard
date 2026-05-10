@@ -46,8 +46,8 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:winexe /out:ChildG
 
 ## 📜 Credits & License
 
-Author: Lawyer Xu (大许律师)
-Version: v1.2
-Copyright: Copyright © 2026
+* **Author**: Lawyer Xu (大许律师)
+* **Version**: v1.2
+* **Copyright**: Copyright © 2026
 
 Dedicated to protecting the healthy growth of children.
